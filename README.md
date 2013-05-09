@@ -1,4 +1,4 @@
 RUtils
 ======
 
-Useful set of R utilities for every day
+This package collect general set of utilities I wrote for every day usage.
